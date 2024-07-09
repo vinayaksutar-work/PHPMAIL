@@ -1,2 +1,2 @@
 # PHPMAIL
-This is PHP email send functionality.
+This is PHP mail functionality using PHPMailer library.
